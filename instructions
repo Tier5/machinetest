@@ -1,0 +1,16 @@
+Instruction
+
+Machine test: 1 hour 
+
+Task: Implement a dashboard from a Sigma design into a React.js application.
+Design:  https://www.figma.com/file/y3SbR9LbhYpFbHgQGhKbUc/Dashboard---FRI%2FFRMAP-941?type=design&node-id=850-10575&mode=design&t=K7yZZKmIVbypCrXB-0
+
+1. Install a fresh React.js environment and set up your project.
+2. Create shareable components for the header, footer, and left-side menu.
+3. Create a dashboard component and implement the widgets exactly as they appear in the provided design.
+4. All items in the left-side menu should be clickable, but they should lead to blank pages.
+5. Implement a pop-up menu that opens when clicking on the three dots menu icon located at the bottom left, next to the profile image. The pop-up menu should contain a "Logout" option. It should close when clicking outside of it.
+
+Please make sure to follow best practices, maintain clean code, and ensure the user interface matches the provided Sigma design closely.
+
+Note: If you encounter any issues or have questions during the test, feel free to ask for clarification or you can use Internet for your help.
